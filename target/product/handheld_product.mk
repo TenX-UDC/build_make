@@ -26,7 +26,6 @@ PRODUCT_PACKAGES += \
     Calendar \
     Contacts \
     DeskClock \
-    Gallery2 \
     Music \
     preinstalled-packages-platform-handheld-product.xml \
     QuickSearchBox \
